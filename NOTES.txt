@@ -4,3 +4,16 @@ nest new sleepr
 cd sleepr
 pnpm run start
 
+database acccess authentication 
+
+ 1176  cd Projects/nestjs_microservices/sleepr
+ 1177  ls
+ 1178  nest generate library common
+ 1179  pnpm i joi
+ 1180* pnpm start:dev
+ 1181  pnpm install @nestjs/mongoose monngoose
+ 1182  pnpm i @nestjs/mongoose monngoose
+ 1183  pnpm i @nestjs/mongoose mongoose
+ 1184  pnpm i @nestjs/config
+ 1185  nest generate module -p common
+ 1186  nest generate module config -p common
